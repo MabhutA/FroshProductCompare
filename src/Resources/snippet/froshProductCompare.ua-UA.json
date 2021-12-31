@@ -1,0 +1,38 @@
+{
+    "froshProductCompare": {
+        "general": {
+            "headline": "Порівняти товари",
+            "addToCompare": "Додати до порівняння",
+            "removeFromCompare": "Видалити з порівняння",
+            "maximumCompareProducts": "Максимальна кількість товарів для порівняння – 4",
+            "empty": "Для порівняння не додано жодного продукту"
+        },
+        "offcanvas": {
+            "continueShopping": "Продовжити покупки",
+            "header": "Продукти для порівняння",
+            "compareNow": "Порівняти зараз"
+        },
+        "action": {
+            "print": "Друк",
+            "clearAll": "Очистити все"
+        },
+        "section": {
+            "overview": {
+                "title": "Огляд",
+                "manufacturer": "Виробник",
+                "price": "Ціна",
+                "description": "Опис",
+                "rating": "Рейтинг",
+                "category": "Категорія"
+            },
+            "specification": {
+                "title": "Специфікація",
+                "manufacturer": "Виробник",
+                "price": "Ціна",
+                "description": "Опис",
+                "rating": "Рейтинг",
+                "category": "Категорія"
+            }
+        }
+    }
+}

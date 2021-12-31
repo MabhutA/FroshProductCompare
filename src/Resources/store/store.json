@@ -6,7 +6,8 @@
     "standardLocale": "en_GB",
     "localizations": [
         "en_GB",
-        "de_DE"
+        "de_DE",
+        "ua_UA"
     ],
     "categories": [
         "Produktdarstellung",
@@ -22,6 +23,10 @@
         "de": [
             "Produktvergleich",
             "Cross-Selling"
+        ],
+        "ua": [
+            "Порівняння продуктів",
+            "Перехресні продажі"
         ]
     }
 }

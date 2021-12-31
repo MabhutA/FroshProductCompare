@@ -1,0 +1,11 @@
+{
+    "frosh-product-compare": {
+        "generalInformation": {
+            "mainMenuItemGeneral": "Frosh Порівняння продуктів",
+            "descriptionTextModule": "Додайте розширення для порівняння продуктів у перехресних продажах"
+        },
+        "crossSelling": {
+            "compareLayout": "Порівняння"
+        }
+    }
+}
